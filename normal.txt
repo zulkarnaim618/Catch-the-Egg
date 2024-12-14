@@ -1,0 +1,20 @@
+n normal
+81
+n asunacs
+79
+n highscore
+77
+n naimt
+76
+n newt
+71
+n naimt
+59
+n naim
+46
+n naimtest
+30
+n causfj
+20
+n douttaf
+12
