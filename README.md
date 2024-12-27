@@ -9,5 +9,5 @@ CSE 102 IGraphics Project
 4. Run "Catch the egg.exe" from Catch the Egg directory.
 
 # Project Screenshots:
-![Main menu](Project screenshots/main menu.png)
-![Gameplay](Project screenshots/gameplay.png)
+![Main menu](project-screenshots/main-menu.png)
+![Gameplay](project-screenshots/gameplay.png)
